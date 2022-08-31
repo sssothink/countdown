@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(70, 70, 70);
+}
+
+.header{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text{
+    position: relative;
+    width: auto;
+    margin: 5vh;
+    color: rgb(142, 255, 164);
+    font-size: 3em;
+}
+
+
+.time__zone{
+    display: flex;
+    flex-direction: row;
+    gap: 3vh;
+    justify-content: center;
+    margin: 15vh 0 0 0;
+}
+
+
+.main{
+    text-align: center;
+    
+}
+
+
+.con{
+    font-size: 7vh;
+    color: rgb(195, 39, 39);
+    padding: 1vh;
+    background-color: rgb(139, 139, 139);
+    border-radius: 1vh;
+}
+.cont{
+    font-size: 7vh;
+    color: rgb(255, 101, 101);
+}
+
